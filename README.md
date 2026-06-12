@@ -243,50 +243,6 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 ---
 
-<!-- Section 8: Certifications -->
-## ◈ Certifications
-
-<div align="center">
-
-#### AWS (Amazon Web Services)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-&nbsp;
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
-#### NPTEL (IIT)
-![Programming in Java](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-005C97?style=for-the-badge&logo=oracle&logoColor=white)
-&nbsp;
-![Data Structures & Algorithms](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-005C97?style=for-the-badge&logo=gitbook&logoColor=white)
-
-#### Cisco Networking Academy
-![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-11A9E2?style=for-the-badge&logo=cisco&logoColor=white)
-&nbsp;
-![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-11A9E2?style=for-the-badge&logo=cisco&logoColor=white)
-
-#### Oracle Cloud
-![OCI Foundations](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
-<!-- Section 9: Coding Profiles -->
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rupam852-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Rupam852/)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Rupam852-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Rupam852)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Rupam852-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/Rupam852)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Rupam852-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Rupam852)
-
-</div>
-
----
-
 <!-- Section 10: GitHub Analytics -->
 ## ◈ GitHub Analytics
 
