@@ -41,7 +41,7 @@
 <!-- Section 2: About Me -->
 ## ◈ About Me
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp"/>
 
 I am a **Product-Minded Software Engineer** based in West Bengal, India. My engineering philosophy revolves around creating high-fidelity, production-grade applications that solve real-world problems. I combine robust architectural designs with fluid user interfaces to build impactful software.
 
