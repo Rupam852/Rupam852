@@ -260,17 +260,6 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 ---
 
-<!-- Section 11: GitHub Trophies -->
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rupam852&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/Rupam852)
-
-</div>
-
----
-
 <!-- Section 12: Contribution Activity -->
 ## ◈ Contribution Activity
 
