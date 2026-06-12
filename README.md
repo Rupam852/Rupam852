@@ -10,8 +10,6 @@
 <br/>
 
 <!-- Primary Action Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-omnipdf--converter.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=ffffff&colorA=0F0F1B)](https://omnipdf-converter.vercel.app)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Bairagya-6366F1?style=for-the-badge&logo=linkedin&logoColor=ffffff&colorA=0F0F1B)](https://www.linkedin.com/in/rupam-bairagya)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-rupambairagya08%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=ffffff&colorA=0F0F1B)](mailto:rupambairagya08@gmail.com)
