@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Section 1: Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=220&section=header&text=Rupam%20Bairagya&fontSize=56&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=240&section=header&text=Rupam%20Bairagya&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%2014%2B%20Projects%20Shipped&descAlignY=60&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -62,7 +62,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <br clear="both"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 3: Tech Stack -->
 ## ◈ Tech Stack
@@ -78,7 +78,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 4: AI / ML Expertise -->
 ## ◈ AI / ML Expertise
@@ -96,7 +96,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 5: Featured Projects -->
 ## ◈ Featured Projects
@@ -321,7 +321,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 6: Experience -->
 ## ◈ Experience
@@ -346,7 +346,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
       All projects are public. I keep them running and updated.
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 7: Achievements -->
 ## ◈ Achievements
@@ -363,7 +363,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 10: GitHub Analytics -->
 ## ◈ GitHub Analytics
@@ -380,7 +380,14 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rupam852&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 12: Contribution Activity -->
 ## ◈ Contribution Activity
@@ -391,7 +398,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 13: Contribution Snake -->
 ## ◈ Contribution Snake
@@ -406,7 +413,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 14: Current Focus -->
 ## ◈ Current Focus
@@ -434,7 +441,7 @@ rupam_bairagya:
     - Any team that ships and iterates fast
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 15: Connect With Me -->
 ## ◈ Connect With Me
@@ -457,7 +464,16 @@ rupam_bairagya:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 16: Footer Section -->
 <div align="center">
@@ -466,6 +482,6 @@ rupam_bairagya:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
