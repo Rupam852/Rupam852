@@ -252,6 +252,74 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 </details>
 
+<details>
+<summary><b>❖ TRAFFICFLOW-AI — AI-Powered Traffic Signal Optimizer</b></summary>
+<br/>
+
+> An AI-powered smart traffic management platform using real-time vehicle flow monitoring and intelligent signal optimization algorithms to reduce city congestion.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | JavaScript · HTML5 · CSS3 · Node.js · Express · Vercel |
+| **Architecture** | Single-page application with real-time analytics simulation engine |
+| **Key Features** | Predictive signal timing, live flow simulation, intersection throughput optimization |
+| **AI Engine** | Dynamic interval adjustments based on real-time congestion patterns |
+| **Repository** | [Rupam852/TRAFFICFLOW-AI](https://github.com/Rupam852/TRAFFICFLOW-AI) |
+| **Live Link** | [trafficflowai.vercel.app](https://trafficflowai.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Neo-Files-Transfer — P2P Web-Based File Transfer</b></summary>
+<br/>
+
+> A fast, secure, and serverless web file transfer application built on WebRTC peer-to-peer technology, enabling zero-server direct browser-to-browser sharing.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | JavaScript · WebRTC · Service Workers · Cloudflare Pages |
+| **Architecture** | Serverless P2P: WebRTC data channels with lightweight signaling |
+| **Key Features** | Zero-server file piping, block transfer management, cross-device compatibility |
+| **Privacy** | No files touch a server — direct encrypted peer connection |
+| **Repository** | [Rupam852/Neo-Files-Transfer](https://github.com/Rupam852/Neo-Files-Transfer) |
+| **Live Link** | [neo-files-transfer.pages.dev](https://neo-files-transfer.pages.dev) |
+
+</details>
+
+<details>
+<summary><b>❖ Payment_Page — Modern Payment UI</b></summary>
+<br/>
+
+> A sleek, production-quality payment page interface featuring a clean checkout flow design, card input validation, and responsive UI components.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | HTML5 · CSS3 · JavaScript · Vercel |
+| **Architecture** | Static page with client-side validation logic |
+| **Key Features** | Card number formatting, real-time input validation, responsive checkout layout |
+| **Design** | Clean, conversion-optimized payment flow UI |
+| **Repository** | [Rupam852/Payment_Page](https://github.com/Rupam852/Payment_Page) |
+| **Live Link** | [payment-page-build.vercel.app](https://payment-page-build.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Login-Page-Glass-Effect — Glassmorphic Login Portal</b></summary>
+<br/>
+
+> A gorgeous, premium login page template featuring a glassmorphic frosted-glass design, micro-interactions, and fully responsive styling — ideal for modern web apps.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | HTML5 · CSS3 · JavaScript · Vercel |
+| **Architecture** | Static component showcase with CSS glassmorphism techniques |
+| **Key Features** | Frosted-glass containers, smooth hover animations, custom background art |
+| **Design** | Full responsive support with micro-interaction feedback |
+| **Repository** | [Rupam852/Login_page_Glass_Effect](https://github.com/Rupam852/Login_page_Glass_Effect) |
+| **Live Link** | [login-page-glass-effect.vercel.app](https://login-page-glass-effect.vercel.app) |
+
+</details>
+
 ---
 
 <!-- Section 6: Experience -->
@@ -283,7 +351,7 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
-| **Production Shipped** | Deployed fully operational SaaS platforms and tools to Vercel | **10+ Live Products** |
+| **Production Shipped** | Deployed fully operational SaaS platforms and tools to Vercel | **14+ Live Products** |
 | **Open Source** | Maintained active repositories, source-available tooling, and utilities | **100% Public Code** |
 | **Mobile Coverage** | Published native Android applications & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, and Java | **5 Languages** |
