@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Full-Stack+Platforms;Architecting+Production-Grade+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Firebase;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;Crafting+AI-Powered+Document+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Full-Stack+Platforms;Architecting+Production-Grade+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Firebase;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;Crafting+AI-Powered+Document+Pipelines;14%2B+Projects+Shipped+%26+Live;WebRTC+%E2%80%A2+Cloudflare+%E2%80%A2+P2P+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -73,7 +73,7 @@ As an active contributor to the open-source community, I design scalable cloud a
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,python,java,cpp,html,css&theme=dark" /> |
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind,figma,androidstudio&theme=dark" /> |
 | **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb,redis&theme=dark" /> |
-| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,linux,vscode&theme=dark" /> |
+| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker,git,github,linux,vscode&theme=dark" /> |
 
 </div>
 
@@ -329,17 +329,23 @@ As an active contributor to the open-source community, I design scalable cloud a
 ◈ Independent Full-Stack Developer
   Self-Employed | Jan 2026 – Present
   │
-  ├── ❖ OmniPDF Platform
-  │   └── Engineered distributed TS/Python pipeline enabling sub-second conversion metrics.
+  ├── ❖ AI & Document Processing (OmniPDF)
+  │   └── Engineered distributed TS/Python pipeline enabling sub-second PDF conversion metrics.
   │
-  ├── ❖ Google API Integrations
-  │   └── Deployed secure OAuth 2.0 system scaling file interactions on G-Drive-Vault.
+  ├── ❖ Google API Integrations (G-Drive-Vault, GmailMNT)
+  │   └── Deployed OAuth 2.0 secure systems for Drive file management & Gmail automation.
   │
-  ├── ❖ Mobile Native Implementations
-  │   └── Shipped reactive MVVM streaming clients (Kotlin) and BLoC budget managers (Flutter).
+  ├── ❖ Mobile Native & Cross-Platform (CloudStream-TV, Expense-App, Calculator)
+  │   └── Shipped MVVM Kotlin clients, BLoC Flutter apps, and dual-platform calculators.
+  │
+  ├── ❖ P2P & Serverless Systems (Neo-Files-Transfer, TRAFFICFLOW-AI)
+  │   └── Built WebRTC peer pipelines and real-time AI traffic optimization engines.
+  │
+  ├── ❖ Cloud Storage Platforms (Drive_Flow, G-Drive-Vault, Link-Flow)
+  │   └── Developed card-based cloud UIs with real-time Firestore sync and sub-second queries.
   │
   └── ❖ DevOps & CI/CD Pipelines
-      └── Integrated Vercel deployments, automated workflows, and Firebase backend setups.
+      └── Maintained 14+ live deployments on Vercel, Cloudflare Pages & Firebase Functions.
 ```
 
 ---
@@ -351,10 +357,11 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
-| **Production Shipped** | Deployed fully operational SaaS platforms and tools to Vercel | **14+ Live Products** |
-| **Open Source** | Maintained active repositories, source-available tooling, and utilities | **100% Public Code** |
-| **Mobile Coverage** | Published native Android applications & cross-platform Flutter bundles | **Android & iOS** |
-| **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, and Java | **5 Languages** |
+| **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **14+ Live Products** |
+| **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **14 Public Repos** |
+| **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
+| **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
+| **P2P & WebRTC** | Built serverless peer-to-peer file transfer without any backend servers | **Zero-Server Arch** |
 
 </div>
 
@@ -418,9 +425,11 @@ rupam_bairagya:
     - Vector Indexes & RAG tuning optimization
 
   building:
-    - OmniPDF — Improving asynchronous processing microservice performance
-    - GmailMNT — Integrating intelligent task workflow algorithms
-    - CloudStream-TV — Revamping client UI utilizing Compose Multiplatform
+    - OmniPDF — Improving async processing microservice performance & OCR accuracy
+    - GmailMNT — Integrating intelligent inbox automation workflow algorithms
+    - CloudStream-TV — Revamping client UI with Compose Multiplatform
+    - Drive_Flow — Expanding with collaborative folders & sharing features
+    - MYPortfolio — Continuously enhancing interactive terminal experience
 
   open_to:
     - Enterprise Software Engineering Roles (SDE I/II)
