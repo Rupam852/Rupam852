@@ -380,20 +380,17 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam852&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B16&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0&ring_color=6366F1&cache_seconds=86400"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupam852&theme=tokyonight"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam852&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=A855F7&text_color=E2E8F0&cache_seconds=86400"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupam852&theme=tokyonight"/>
 
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Rupam852&theme=tokyonight&hide_border=true&background=0D0B16&stroke=4F46E5&ring=A855F7&fire=8B5CF6&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=8B5CF6&currStreakNum=A855F7&sideNums=E2E8F0"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rupam852&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupam852&theme=tokyonight"/>
 
 </div>
 
