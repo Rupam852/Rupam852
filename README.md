@@ -321,6 +321,9 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </details>
 
+<!-- AUTO_PROJECTS_START -->
+<!-- AUTO_PROJECTS_END -->
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
 
 <!-- Section 6: Experience -->
@@ -355,8 +358,10 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
+<!-- AUTO_STATS_START -->
 | **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **14+ Live Products** |
 | **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **14 Public Repos** |
+<!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
 | **P2P & WebRTC** | Built serverless peer-to-peer file transfer without any backend servers | **Zero-Server Arch** |
