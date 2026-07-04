@@ -201,6 +201,57 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 </details>
 
+<details>
+<summary><b>❖ Calculator — Premium Dual-Platform Calculator</b></summary>
+<br/>
+
+> A hybrid calculator project hosting both a high-fidelity web application and a native Flutter mobile app, featuring a glassmorphic design system with ambient glowing backdrops and advanced calculation logic.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | Flutter · Dart · React · TypeScript · LocalStorage · Vercel |
+| **Architecture** | Dual-platform hybrid: Web (HTML/CSS/JS) + Native Mobile (Flutter/Dart) |
+| **Key Features** | Glassmorphic design, smart backspace undo, continuous calculations, scientific notation |
+| **Data Storage** | Persistent calculation history using LocalStorage |
+| **Repository** | [Rupam852/Calculator](https://github.com/Rupam852/Calculator) |
+| **Live Link** | [devcalculatoronline.vercel.app](https://devcalculatoronline.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Tic-Tac-Toe-Game — Interactive Web Game</b></summary>
+<br/>
+
+> A responsive, modern web-based Tic-Tac-Toe game featuring a glassmorphic UI, smooth animations, and active score tracking.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | TypeScript · HTML5 · CSS3 · Vercel |
+| **Architecture** | Single-page application with reactive game state management |
+| **Key Features** | Glassmorphic grid UI, real-time scoreboard, smooth micro-animations |
+| **Design** | Fully responsive layout for all device sizes |
+| **Repository** | [Rupam852/Tic-Tac-Toe-Game](https://github.com/Rupam852/Tic-Tac-Toe-Game) |
+| **Live Link** | [tic-tac-toe-gamego.vercel.app](https://tic-tac-toe-gamego.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Drive_Flow — Modern Cloud Drive Client</b></summary>
+<br/>
+
+> A cloud file management platform that allows users to upload, organize, and access files securely through a fast, card-based web interface with sub-second query filters.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | React · TypeScript · Firebase · Node.js · Vercel |
+| **Architecture** | Serverless cloud storage with real-time metadata synchronization |
+| **Key Features** | Card-based file browser, secure upload pipeline, real-time list updates |
+| **Performance** | Sub-second query filters, optimized asset retrieval |
+| **Repository** | [Rupam852/Drive_Flow](https://github.com/Rupam852/Drive_Flow) |
+| **Live Link** | [driveflowrupam.vercel.app](https://driveflowrupam.vercel.app) |
+
+</details>
+
 ---
 
 <!-- Section 6: Experience -->
@@ -232,7 +283,7 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
-| **Production Shipped** | Deployed fully operational SaaS platforms and tools to Vercel | **8+ Live Products** |
+| **Production Shipped** | Deployed fully operational SaaS platforms and tools to Vercel | **10+ Live Products** |
 | **Open Source** | Maintained active repositories, source-available tooling, and utilities | **100% Public Code** |
 | **Mobile Coverage** | Published native Android applications & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, and Java | **5 Languages** |
