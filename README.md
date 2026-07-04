@@ -370,13 +370,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/Rupam852?style=for-the-badge&logo=github&color=A855F7&labelColor=0D0B16&label=TOTAL%20STARS)
+![Total Stars](https://img.shields.io/github/stars/Rupam852?style=flat-square&logo=github&color=A855F7&labelColor=0D0B16&label=TOTAL%20STARS)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/Rupam852?style=flat-square&logo=github&color=6366F1&labelColor=0D0B16&label=FOLLOWERS)
+&nbsp;&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRupam852&query=%24.public_repos&style=flat-square&logo=github&logoColor=white&color=8B5CF6&labelColor=0D0B16&label=PUBLIC%20REPOS)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=flat-square&color=D946EF&label=PROFILE+VIEWS&labelColor=0D0B16)
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam852&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B16&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0&ring_color=6366F1&cache_seconds=86400"/>
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Rupam852?style=for-the-badge&logo=github&color=6366F1&labelColor=0D0B16&label=FOLLOWERS)
-&nbsp;
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-14%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B16)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=for-the-badge&color=D946EF&label=PROFILE+VIEWS&labelColor=0D0B16)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam852&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=A855F7&text_color=E2E8F0&cache_seconds=86400"/>
 
 <br/>
 
