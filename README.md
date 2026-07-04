@@ -322,6 +322,20 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <!-- AUTO_PROJECTS_START -->
+
+<details>
+<summary><b>❖ Glick-X-Notes</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | Glick X Notes is a modern note-taking application that enables users to create, organize, edit, and manage notes effortlessly with a clean, fast, and responsive interface. |
+| **Language** | TypeScript |
+| **Stars** | ⭐ 1 |
+| **Repository** | [Rupam852/Glick-X-Notes](https://github.com/Rupam852/Glick-X-Notes) |
+| **Live Link** | [https://glick-x-notes.vercel.app](https://glick-x-notes.vercel.app) |
+
+</details>
+
 <!-- AUTO_PROJECTS_END -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
@@ -359,8 +373,9 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
 <!-- AUTO_STATS_START -->
-| **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **14+ Live Products** |
-| **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **14 Public Repos** |
+| **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **16+ Live Products** |
+| **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **16 Public Repos** |
+| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 15 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
