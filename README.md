@@ -43,21 +43,22 @@
 
 <img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp"/>
 
-I am a **Product-Minded Software Engineer** based in West Bengal, India. My engineering philosophy revolves around creating high-fidelity, production-grade applications that solve real-world problems. I combine robust architectural designs with fluid user interfaces to build impactful software.
+Hey! I'm Rupam — a self-taught developer from West Bengal, India who genuinely loves building things that actually work and look good doing it.
 
-Specializing in full-stack web and mobile engineering, I work extensively with **React**, **TypeScript**, and **Node.js** for web architectures, **Kotlin / Jetpack Compose** for native Android, and **Flutter / Dart** for cross-platform apps. 
+I started with the basics and kept going. Now I build full-stack web apps with **React** and **TypeScript**, native Android apps with **Kotlin & Jetpack Compose**, and cross-platform mobile apps using **Flutter**. I also enjoy working with backend stuff — **Node.js**, **Firebase**, and occasionally some **Python** for heavier tasks.
 
-As an active contributor to the open-source community, I design scalable cloud architectures, AI-integrated workflows, and custom tooling designed to run reliably in production.
+Most of what I build is open source. I like shipping real projects, not just toy apps — things people can actually use. I've built 14+ projects ranging from a PDF processing tool to a P2P file transfer app to a budget tracker.
 
-#### ⚡ Core Capabilities
-- **Architecture**: Microservices, Serverless, RESTful API design, Eventual consistency
-- **Engineering**: Offline-first apps, Optimistic UI updates, Hybrid cloud integration
-- **AI Integration**: Retrieval-Augmented Generation (RAG), Document Processing pipelines, Vector Search
+#### ⚡ What I'm Good At
+- Building full-stack web & mobile apps end to end
+- Working with Google APIs (Drive, Gmail, OAuth 2.0)
+- Integrating AI/LLM features into real apps
+- Keeping things clean, fast, and actually deployed
 
-#### 💼 Open To
-- **SDE Roles**: Full-time SDE I / SDE II positions
-- **Collaborations**: Open-source projects and architectural designs
-- **Consulting**: High-impact full-stack development and cloud integration
+#### 💼 Looking For
+- Full-time SDE roles (SDE I / SDE II)
+- Interesting open-source collabs
+- Projects where I can learn and contribute something real
 
 <br clear="both"/>
 
@@ -326,26 +327,23 @@ As an active contributor to the open-source community, I design scalable cloud a
 ## ◈ Experience
 
 ```
-◈ Independent Full-Stack Developer
-  Self-Employed | Jan 2026 – Present
+◈ Freelance / Self-Initiated Projects
+  Jan 2026 – Present
   │
-  ├── ❖ AI & Document Processing (OmniPDF)
-  │   └── Engineered distributed TS/Python pipeline enabling sub-second PDF conversion metrics.
+  ├── Built OmniPDF — a PDF tool that handles conversions, OCR & compression.
+  │   Learned a lot about connecting TypeScript and Python services together.
   │
-  ├── ❖ Google API Integrations (G-Drive-Vault, GmailMNT)
-  │   └── Deployed OAuth 2.0 secure systems for Drive file management & Gmail automation.
+  ├── Integrated Google Drive & Gmail APIs — built two separate apps around
+  │   OAuth 2.0 scopes. Got very comfortable with Google's ecosystem.
   │
-  ├── ❖ Mobile Native & Cross-Platform (CloudStream-TV, Expense-App, Calculator)
-  │   └── Shipped MVVM Kotlin clients, BLoC Flutter apps, and dual-platform calculators.
+  ├── Shipped mobile apps in both Kotlin & Flutter — a streaming client,
+  │   an expense tracker, and a calculator. Each one taught me something new.
   │
-  ├── ❖ P2P & Serverless Systems (Neo-Files-Transfer, TRAFFICFLOW-AI)
-  │   └── Built WebRTC peer pipelines and real-time AI traffic optimization engines.
+  ├── Built Neo-Files-Transfer using WebRTC — purely peer-to-peer,
+  │   no server involved. One of my favorite projects to build.
   │
-  ├── ❖ Cloud Storage Platforms (Drive_Flow, G-Drive-Vault, Link-Flow)
-  │   └── Developed card-based cloud UIs with real-time Firestore sync and sub-second queries.
-  │
-  └── ❖ DevOps & CI/CD Pipelines
-      └── Maintained 14+ live deployments on Vercel, Cloudflare Pages & Firebase Functions.
+  └── Maintained 14+ live deployments across Vercel, Cloudflare & Firebase.
+      All projects are public. I keep them running and updated.
 ```
 
 ---
@@ -415,26 +413,25 @@ As an active contributor to the open-source community, I design scalable cloud a
 
 ```yaml
 rupam_bairagya:
-  role: Full-Stack Software Engineer
+  role: Full-Stack Developer (self-taught, still learning every day)
   location: West Bengal, India
 
-  learning:
-    - Distributed Systems Design & Load Balancing
-    - Adv. TypeScript Design Patterns & Event Architectures
-    - Kotlin Multiplatform Mobile (KMM) for shared cores
-    - Vector Indexes & RAG tuning optimization
+  currently_learning:
+    - How distributed systems actually work at scale
+    - TypeScript patterns I keep avoiding but should use
+    - Kotlin Multiplatform — want to share code across Android & iOS
+    - RAG pipelines & how to make AI actually useful in real apps
 
-  building:
-    - OmniPDF — Improving async processing microservice performance & OCR accuracy
-    - GmailMNT — Integrating intelligent inbox automation workflow algorithms
-    - CloudStream-TV — Revamping client UI with Compose Multiplatform
-    - Drive_Flow — Expanding with collaborative folders & sharing features
-    - MYPortfolio — Continuously enhancing interactive terminal experience
+  currently_working_on:
+    - OmniPDF — fixing the async pipeline, want it to feel snappier
+    - GmailMNT — adding smarter inbox automation
+    - CloudStream-TV — the UI needs a proper redesign
+    - MYPortfolio — always tweaking it
 
   open_to:
-    - Enterprise Software Engineering Roles (SDE I/II)
-    - Full-Stack & Systems Architecture Design
-    - High-growth Product Development Teams
+    - SDE roles where I can actually build things (not just meetings)
+    - Open source collabs on interesting problems
+    - Any team that ships and iterates fast
 ```
 
 ---
@@ -465,7 +462,7 @@ rupam_bairagya:
 <!-- Section 16: Footer Section -->
 <div align="center">
 
-*"The best code is code that ships — thoughtfully engineered, relentlessly iterated, and always in production."*
+*"I build things, ship them, break them, fix them, and repeat. That's the job."*
 
 <br/>
 
