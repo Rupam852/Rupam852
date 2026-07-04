@@ -370,9 +370,13 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam852&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B16&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0&ring_color=6366F1&cache_seconds=1800"/>
+![Total Stars](https://img.shields.io/github/stars/Rupam852?style=for-the-badge&logo=github&color=A855F7&labelColor=0D0B16&label=TOTAL%20STARS)
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam852&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0B16&title_color=A855F7&text_color=E2E8F0&cache_seconds=1800"/>
+![Followers](https://img.shields.io/github/followers/Rupam852?style=for-the-badge&logo=github&color=6366F1&labelColor=0D0B16&label=FOLLOWERS)
+&nbsp;
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-14%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B16)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=for-the-badge&color=D946EF&label=PROFILE+VIEWS&labelColor=0D0B16)
 
 <br/>
 
@@ -383,7 +387,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rupam852&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rupam852&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
 
 </div>
 
@@ -394,7 +398,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <div align="center">
 
-[![Rupam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam852&theme=react-dark&bg_color=0D0B16&color=A855F7&line=8B5CF6&point=E2E8F0&area=true&area_color=1E1B4B&hide_border=true)](https://github.com/Rupam852)
+[![Rupam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam852&theme=tokyo-night&bg_color=0D0B16&color=A855F7&line=8B5CF6&point=E2E8F0&area=true&area_color=1E1B4B&hide_border=true)](https://github.com/Rupam852)
 
 </div>
 
