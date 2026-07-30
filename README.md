@@ -329,7 +329,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | | |
 | :--- | :--- |
 | **Description** | No description provided. |
-| **Language** | Java |
+| **Language** | Dart |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
 
