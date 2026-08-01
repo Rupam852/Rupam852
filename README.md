@@ -332,6 +332,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | Dart |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
+| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
 
 </details>
 
