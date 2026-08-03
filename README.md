@@ -324,19 +324,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
-<summary><b>❖ Walvo_Music</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | 🎵 Ad-Free YouTube Music Client (Only for Android Users). 100% Free, Synced Lyrics, Song Recognizer & Offline Downloads. |
-| **Language** | Kotlin |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
-| **Live Link** | [https://walvo-music.vercel.app](https://walvo-music.vercel.app) |
-
-</details>
-
-<details>
 <summary><b>❖ Wrist-Rx</b></summary>
 
 | | |
@@ -346,6 +333,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
 | **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Walvo_Music</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | 🎵 Ad-Free YouTube Music Client (Only for Android Users). 100% Free, Synced Lyrics, Song Recognizer & Offline Downloads. |
+| **Language** | Kotlin |
+| **Stars** | ⭐ 1 |
+| **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
+| **Live Link** | [https://walvo-music.vercel.app](https://walvo-music.vercel.app) |
 
 </details>
 
@@ -450,7 +450,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_STATS_START -->
 | **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **22+ Live Products** |
 | **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **22 Public Repos** |
-| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 15 Stars** |
+| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 16 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
