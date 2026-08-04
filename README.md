@@ -324,19 +324,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
-<summary><b>❖ Wrist-Rx</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | Dart |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
-| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
-
-</details>
-
-<details>
 <summary><b>❖ Walvo_Music</b></summary>
 
 | | |
@@ -346,6 +333,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Stars** | ⭐ 1 |
 | **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
 | **Live Link** | [https://walvo-music.vercel.app](https://walvo-music.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Wrist-Rx</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | Dart |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
+| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
 
 </details>
 
