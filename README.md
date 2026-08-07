@@ -337,15 +337,14 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
-<summary><b>❖ Wrist-Rx</b></summary>
+<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
 
 | | |
 | :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | Dart |
+| **Description** | Collage AI LAB Assignments |
+| **Language** | Jupyter Notebook |
 | **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
-| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
+| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
 
 </details>
 
@@ -362,14 +361,15 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
-<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
+<summary><b>❖ Wrist-Rx</b></summary>
 
 | | |
 | :--- | :--- |
-| **Description** | Collage AI LAB Assignments |
-| **Language** | Jupyter Notebook |
+| **Description** | No description provided. |
+| **Language** | Dart |
 | **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
+| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
+| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
 
 </details>
 
