@@ -329,8 +329,8 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | | |
 | :--- | :--- |
 | **Description** | 🎵 Ad-Free YouTube Music Client (Only for Android Users). 100% Free, Synced Lyrics, Song Recognizer & Offline Downloads. |
-| **Language** | Kotlin |
-| **Stars** | ⭐ 1 |
+| **Language** | Java |
+| **Stars** | ⭐ 2 |
 | **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
 | **Live Link** | [https://walvo-music.vercel.app](https://walvo-music.vercel.app) |
 
@@ -462,7 +462,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_STATS_START -->
 | **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **23+ Live Products** |
 | **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **23 Public Repos** |
-| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 16 Stars** |
+| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 17 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
