@@ -337,18 +337,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
-<summary><b>❖ JIS_Build_With_AI</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
-
-</details>
-
-<details>
 <summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
 
 | | |
@@ -357,6 +345,18 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | Jupyter Notebook |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ JIS_Build_With_AI</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
 
 </details>
 
