@@ -324,6 +324,18 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
+<summary><b>❖ AI-Career-Mentor</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
+
+</details>
+
+<details>
 <summary><b>❖ Walvo_Music</b></summary>
 
 | | |
@@ -357,18 +369,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | Jupyter Notebook |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
-
-</details>
-
-<details>
-<summary><b>❖ AI-Career-Mentor</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | N/A |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
 
 </details>
 
