@@ -324,18 +324,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
-<summary><b>❖ AI-Career-Mentor</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | N/A |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
-
-</details>
-
-<details>
 <summary><b>❖ Walvo_Music</b></summary>
 
 | | |
@@ -345,6 +333,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Stars** | ⭐ 2 |
 | **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
 | **Live Link** | [https://walvo-music.vercel.app](https://walvo-music.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ AI-Career-Mentor</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | AI LAB Project  |
+| **Language** | Python |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
+| **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
 
 </details>
 
