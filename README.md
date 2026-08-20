@@ -330,7 +330,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | :--- | :--- |
 | **Description** | AI LAB Project  |
 | **Language** | Python |
-| **Stars** | ⭐ 0 |
+| **Stars** | ⭐ 1 |
 | **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
 | **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
 
@@ -450,7 +450,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_STATS_START -->
 | **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **22+ Live Products** |
 | **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **22 Public Repos** |
-| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 15 Stars** |
+| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 16 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
