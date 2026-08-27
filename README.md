@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Section 1: Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=240&section=header&text=Rupam%20Bairagya&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%2023%2B%20Projects%20Shipped&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=240&section=header&text=Rupam%20Bairagya&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%2027%2B%20Projects%20Shipped&descAlignY=60&descAlign=50" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Full-Stack+Platforms;Architecting+Production-Grade+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Firebase;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;Crafting+AI-Powered+Document+Pipelines;23%2B+Projects+Shipped+%26+Live;WebRTC+%E2%80%A2+Cloudflare+%E2%80%A2+P2P+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Full-Stack+Platforms;Architecting+Production-Grade+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Firebase;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;Crafting+AI-Powered+Document+Pipelines;27%2B+Projects+Shipped+%26+Live;WebRTC+%E2%80%A2+Cloudflare+%E2%80%A2+P2P+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -324,6 +324,66 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
+<summary><b>❖ BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM](https://github.com/Rupam852/BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ BWU_OS_LAB_4TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_OS_LAB_4TH_SEM](https://github.com/Rupam852/BWU_OS_LAB_4TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ BWU_JAVA_LAB_4TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_JAVA_LAB_4TH_SEM](https://github.com/Rupam852/BWU_JAVA_LAB_4TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | Collage AI LAB Assignments |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ BWU_Compiler_Design_LAB_5TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_Compiler_Design_LAB_5TH_SEM](https://github.com/Rupam852/BWU_Compiler_Design_LAB_5TH_SEM) |
+
+</details>
+
+<details>
 <summary><b>❖ Cloud-Computing-Lab_BWU</b></summary>
 
 | | |
@@ -345,18 +405,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Stars** | ⭐ 1 |
 | **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
 | **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
-
-</details>
-
-<details>
-<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | Collage AI LAB Assignments |
-| **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
 
 </details>
 
@@ -446,7 +494,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
   ├── Built Neo-Files-Transfer using WebRTC — purely peer-to-peer,
   │   no server involved. One of my favorite projects to build.
   │
-  └── Maintained 23+ live deployments across Vercel, Cloudflare & Firebase.
+  └── Maintained 27+ live deployments across Vercel, Cloudflare & Firebase.
       All projects are public. I keep them running and updated.
 ```
 
@@ -460,8 +508,8 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | Highlight | Description | Key Metric |
 | :--- | :--- | :--- |
 <!-- AUTO_STATS_START -->
-| **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **23+ Live Products** |
-| **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **23 Public Repos** |
+| **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **27+ Live Products** |
+| **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **27 Public Repos** |
 | **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 16 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
