@@ -324,6 +324,18 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
+<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | Collage AI LAB Assignments |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
+
+</details>
+
+<details>
 <summary><b>❖ BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM</b></summary>
 
 | | |
@@ -356,18 +368,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | N/A |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/BWU_JAVA_LAB_4TH_SEM](https://github.com/Rupam852/BWU_JAVA_LAB_4TH_SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | Collage AI LAB Assignments |
-| **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
 
 </details>
 
