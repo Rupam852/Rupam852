@@ -332,6 +332,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | Kotlin |
 | **Stars** | ⭐ 1 |
 | **Repository** | [Rupam852/Fasal-Drishti-AI](https://github.com/Rupam852/Fasal-Drishti-AI) |
+| **Live Link** | [https://fasaldrishti-ai.vercel.app/](https://fasaldrishti-ai.vercel.app/) |
 
 </details>
 
