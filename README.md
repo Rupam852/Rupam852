@@ -324,6 +324,18 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
+<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | Collage AI LAB Assignments |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 0 |
+| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
+
+</details>
+
+<details>
 <summary><b>❖ Fasal-Drishti-AI</b></summary>
 
 | | |
@@ -357,18 +369,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | N/A |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/Computer_Network_LAB_5TH-SEM](https://github.com/Rupam852/Computer_Network_LAB_5TH-SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | Collage AI LAB Assignments |
-| **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
 
 </details>
 
