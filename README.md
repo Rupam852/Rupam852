@@ -324,6 +324,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 <!-- AUTO_PROJECTS_START -->
 
 <details>
+<summary><b>❖ AI_Career_Mentor_BWU_AI_LAB_PROJECT</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | HTML |
+| **Stars** | ⭐ 1 |
+| **Repository** | [Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT](https://github.com/Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT) |
+| **Live Link** | [https://ai-career-mentor-bwu-ai-lab-project.vercel.app](https://ai-career-mentor-bwu-ai-lab-project.vercel.app) |
+
+</details>
+
+<details>
 <summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
 
 | | |
@@ -418,19 +431,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Stars** | ⭐ 1 |
 | **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
 | **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ AI_Career_Mentor_BWU_AI_LAB_PROJECT</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | HTML |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT](https://github.com/Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT) |
-| **Live Link** | [https://ai-career-mentor-bwu-ai-lab-project.vercel.app](https://ai-career-mentor-bwu-ai-lab-project.vercel.app) |
 
 </details>
 
