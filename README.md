@@ -337,6 +337,19 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
+<summary><b>❖ AI-Career-Mentor</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | AI LAB Project  |
+| **Language** | Python |
+| **Stars** | ⭐ 1 |
+| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
+| **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
+
+</details>
+
+<details>
 <summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
 
 | | |
@@ -467,19 +480,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Language** | N/A |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/BWU_JAVA_LAB_4TH_SEM](https://github.com/Rupam852/BWU_JAVA_LAB_4TH_SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ AI-Career-Mentor</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | AI LAB Project  |
-| **Language** | Python |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
-| **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
 
 </details>
 
