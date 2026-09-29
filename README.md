@@ -225,6 +225,102 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 
 </details>
 
+<details open>
+<summary><b>❖ Walvo_Music — Ad-Free Android Music Client</b></summary>
+<br/>
+
+> A full-featured native Android music streaming client designed for seamless playback with synced lyrics, song recognition, and offline caching.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | Java · Android SDK · Retrofit · ExoPlayer · Vercel |
+| **Architecture** | Native Android audio pipeline with synced lyrics parser & background service |
+| **Key Features** | 100% Ad-Free, offline downloads, synced live lyrics, integrated song recognizer |
+| **Repository** | [Rupam852/Walvo_Music](https://github.com/Rupam852/Walvo_Music) |
+| **Live Link** | [walvo-music.vercel.app](https://walvo-music.vercel.app) |
+
+</details>
+
+<details open>
+<summary><b>❖ Fasal-Drishti-AI — AI Crop Disease Diagnostics</b></summary>
+<br/>
+
+> An intelligent agricultural advisory tool using computer vision to detect crop diseases from leaf imagery and generate preventive advisory reports.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | Kotlin · Jetpack Compose · TensorFlow Lite · Vercel |
+| **Architecture** | Mobile computer vision pipeline with real-time on-device inference |
+| **Key Features** | Leaf disease scanning, instantaneous advisory generation, multilingual farmer UI |
+| **Repository** | [Rupam852/Fasal-Drishti-AI](https://github.com/Rupam852/Fasal-Drishti-AI) |
+| **Live Link** | [fasaldrishti-ai.vercel.app](https://fasaldrishti-ai.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>❖ File_Maintenance (File Manage Vault) — Cloud Storage Workspace</b></summary>
+<br/>
+
+> A fast and modern cloud file management portal offering drag-and-drop uploads, instant directory indexing, and secure asset vaults.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | React · TypeScript · Firebase · TailwindCSS · Vercel |
+| **Architecture** | Client-side reactive vault with Firebase cloud persistence |
+| **Key Features** | Multi-tier folder hierarchy, modal previews, instantaneous search filtering |
+| **Repository** | [Rupam852/File_Maintenance](https://github.com/Rupam852/File_Maintenance) |
+| **Live Link** | [filemanagevault.vercel.app](https://filemanagevault.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ Resume-Analyzer — AI-Powered ATS & Resume Parser</b></summary>
+<br/>
+
+> An intelligent document evaluation system scoring resumes against target industry job descriptions using NLP heuristics.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | JavaScript · Node.js · Express · AI Heuristics · Vercel |
+| **Architecture** | Client-server parsing pipeline with lexical analysis |
+| **Key Features** | Real-time ATS match percentage, keyword gap detection, formatting suggestions |
+| **Repository** | [Rupam852/Resume-Analyzer](https://github.com/Rupam852/Resume-Analyzer) |
+| **Live Link** | [ai-resume-analyzer-tech.vercel.app](https://ai-resume-analyzer-tech.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>❖ AI-Career-Mentor — Intelligent Career Guidance Engine</b></summary>
+<br/>
+
+> An interactive AI career advisory system that builds tailored engineering roadmaps, analyzes candidate skill profiles, and suggests career progression milestones.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | Python · Flask · HTML5 · CSS3 · Vercel |
+| **Architecture** | Dynamic LLM orchestration engine with domain curriculum templates |
+| **Key Features** | Skill-gap assessment, interactive roadmap generator, AI interview prep |
+| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
+| **Live Link** | [ai-career-mentor-project.vercel.app](https://ai-career-mentor-project.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>❖ Wrist-Rx — Wearable Health & Vitals Dashboard</b></summary>
+<br/>
+
+> A responsive health telemetry tracker designed for wearable diagnostics and logging vital trends with clean charts.
+
+| Spec | Details |
+| :--- | :--- |
+| **Tech Stack** | Flutter · Dart · SQLite · Vercel |
+| **Architecture** | Reactive local-first state architecture with encrypted persistence |
+| **Key Features** | Vitals trend charts, daily health logging, exported summaries |
+| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
+| **Live Link** | [wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
+
+</details>
+
 <!-- AUTO_PROJECTS_START -->
 
 <details>
@@ -241,19 +337,6 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 </details>
 
 <details>
-<summary><b>❖ AI-Career-Mentor</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | AI LAB Project  |
-| **Language** | Python |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/AI-Career-Mentor](https://github.com/Rupam852/AI-Career-Mentor) |
-| **Live Link** | [https://ai-career-mentor-project.vercel.app/](https://ai-career-mentor-project.vercel.app/) |
-
-</details>
-
-<details>
 <summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
 
 | | |
@@ -262,19 +345,6 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 | **Language** | Jupyter Notebook |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ Fasal-Drishti-AI</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | Kotlin |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/Fasal-Drishti-AI](https://github.com/Rupam852/Fasal-Drishti-AI) |
-| **Live Link** | [https://fasaldrishti-ai.vercel.app/](https://fasaldrishti-ai.vercel.app/) |
 
 </details>
 
@@ -339,19 +409,6 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 </details>
 
 <details>
-<summary><b>❖ Wrist-Rx</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | Dart |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/Wrist-Rx](https://github.com/Rupam852/Wrist-Rx) |
-| **Live Link** | [https://wrist-rx.vercel.app](https://wrist-rx.vercel.app) |
-
-</details>
-
-<details>
 <summary><b>❖ BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM</b></summary>
 
 | | |
@@ -396,19 +453,6 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 | **Language** | Jupyter Notebook |
 | **Stars** | ⭐ 0 |
 | **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
-
-</details>
-
-<details>
-<summary><b>❖ Resume-Analyzer</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | JavaScript |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Resume-Analyzer](https://github.com/Rupam852/Resume-Analyzer) |
-| **Live Link** | [https://ai-resume-analyzer-tech.vercel.app/](https://ai-resume-analyzer-tech.vercel.app/) |
 
 </details>
 

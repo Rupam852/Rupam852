@@ -34,6 +34,8 @@ MANUALLY_LISTED = {
     "MYPortfolio", "Link-Flow", "Expense-App", "Calculator",
     "Tic-Tac-Toe-Game", "Drive_Flow", "TRAFFICFLOW-AI",
     "Neo-Files-Transfer", "Payment_Page", "Login_page_Glass_Effect",
+    "Walvo_Music", "Fasal-Drishti-AI", "File_Maintenance",
+    "Resume-Analyzer", "AI-Career-Mentor", "Wrist-Rx",
     "Rupam852",  # profile repo itself
 }
 
