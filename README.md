@@ -42,25 +42,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
-<!-- Section: GitHub Achievements Showcase -->
-## 🏆 GitHub Badges & Achievements
-
-<div align="center">
-
-| 🤹 YOLO | ⚡ Quickdraw | 👯 Pair Extraordinaire | 🦈 Pull Shark |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark Badge" /> |
-| **Merged Without Review** | **Quick Issue Resolution** | **Co-Authored Commits** | **Pull Request Merged** |
-
-<br/>
-
-<!-- GitHub Trophies Section in Dark Cyberpunk Mode -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rupam852&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&margin_h=4&row=1&column=7)](https://github.com/Rupam852)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
-
 <!-- Section 2: About Me -->
 ## ◈ About Me
 
