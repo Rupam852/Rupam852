@@ -1,111 +1,136 @@
 <div align="center">
 
 <!-- Section 1: Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=240&section=header&text=Rupam%20Bairagya&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%2031%2B%20Projects%20Shipped&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0812,130f26,3b0764,7c3aed,06b6d4&height=260&section=header&text=Rupam%20Bairagya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Mobile%20Engineer%20%E2%80%A2%2031%2B%20Projects%20Shipped&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Full-Stack+Platforms;Architecting+Production-Grade+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Firebase;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;Crafting+AI-Powered+Document+Pipelines;31%2B+Projects+Shipped+%26+Live;WebRTC+%E2%80%A2+Cloudflare+%E2%80%A2+P2P+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&random=false&width=780&lines=Building+Ultra-Scalable+Full-Stack+Platforms;Crafting+Production+Web+%26+Native+Android+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Flutter;AI-Powered+Microservices+%26+Document+Pipelines;31%2B+Projects+Shipped+%26+Live+on+Vercel;WebRTC+P2P+Systems+%E2%80%A2+Cloudflare+Ecosystem)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Primary Action Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Bairagya-6366F1?style=for-the-badge&logo=linkedin&logoColor=ffffff&colorA=0F0F1B)](https://www.linkedin.com/in/rupam-bairagya)
+<!-- Primary Social & Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Bairagya-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff&colorA=0A0812)](https://www.linkedin.com/in/rupam-bairagya)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-rupambairagya08%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=ffffff&colorA=0F0F1B)](mailto:rupambairagya08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-rupambairagya08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&colorA=0A0812)](mailto:rupambairagya08@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Rupam852-A855F7?style=for-the-badge&logo=github&logoColor=ffffff&colorA=0F0F1B)](https://github.com/Rupam852)
+[![GitHub](https://img.shields.io/badge/GitHub-Rupam852-A855F7?style=for-the-badge&logo=github&logoColor=ffffff&colorA=0A0812)](https://github.com/Rupam852)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=ffffff&colorA=0A0812)](https://devcalculatoronline.vercel.app/)
 
 <br/>
 <br/>
 
 <!-- Quick Info Badges -->
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-8B5CF6?style=flat-square&logo=graduation-cap&logoColor=ffffff&colorA=0F0F1B)
+![B.Tech CSE](https://img.shields.io/badge/Education-B.Tech%20Computer%20Science%20%26%20Eng.-8B5CF6?style=flat-square&logo=graduation-cap&logoColor=ffffff&colorA=0A0812)
 &nbsp;
-![Location](https://img.shields.io/badge/India-West%20Bengal-6366F1?style=flat-square&logo=google-maps&logoColor=ffffff&colorA=0F0F1B)
+![Location](https://img.shields.io/badge/Location-West%20Bengal%2C%20India-6366F1?style=flat-square&logo=google-maps&logoColor=ffffff&colorA=0A0812)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20For%20Opportunities-10B981?style=flat-square&logo=rocket&logoColor=ffffff&colorA=0A0812)
 
 <br/>
 <br/>
 
-<!-- Stats Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS&labelColor=0f0f1b)
+<!-- Live GitHub Stats Counter Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=flat-square&color=06b6d4&label=PROFILE+VIEWS&labelColor=0a0812)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Rupam852?style=flat-square&color=6366f1&logo=github&label=FOLLOWERS&labelColor=0f0f1b)](https://github.com/Rupam852?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Rupam852?style=flat-square&color=8b5cf6&logo=github&label=FOLLOWERS&labelColor=0a0812)](https://github.com/Rupam852?tab=followers)
 &nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/Rupam852?style=flat-square&color=d946ef&logo=github&label=TOTAL+STARS&labelColor=0f0f1b)](https://github.com/Rupam852?tab=repositories)
+[![GitHub User's stars](https://img.shields.io/github/stars/Rupam852?style=flat-square&color=d946ef&logo=github&label=TOTAL+STARS&labelColor=0a0812)](https://github.com/Rupam852?tab=repositories)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
+
+<!-- Section: GitHub Achievements Showcase -->
+## 🏆 GitHub Badges & Achievements
+
+<div align="center">
+
+| 🤹 YOLO | ⚡ Quickdraw | 👯 Pair Extraordinaire | 🦈 Pull Shark |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire Badge" /> | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark Badge" /> |
+| **Merged Without Review** | **Quick Issue Resolution** | **Co-Authored Commits** | **Pull Request Merged** |
+
+<br/>
+
+<!-- GitHub Trophies Section in Dark Cyberpunk Mode -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rupam852&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4&margin_h=4&row=1&column=7)](https://github.com/Rupam852)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 2: About Me -->
 ## ◈ About Me
 
-<img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp"/>
+<img align="right" alt="Coding GIF" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzajZydTd2YmR1Z3A5cnY3ZnI5aW0ybTE1YTlicXc4OXpweHVzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp"/>
 
-Hey! I'm Rupam — a self-taught developer from West Bengal, India who genuinely loves building things that actually work and look good doing it.
+Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack Developer and Mobile Engineer from West Bengal, India. I specialize in turning complex logic into blazing-fast, aesthetic, and production-ready digital experiences.
 
-I started with the basics and kept going. Now I build full-stack web apps with **React** and **TypeScript**, native Android apps with **Kotlin & Jetpack Compose**, and cross-platform mobile apps using **Flutter**. I also enjoy working with backend stuff — **Node.js**, **Firebase**, and occasionally some **Python** for heavier tasks.
+- 🔭 **What I Build:** Scalable web applications using **React, Next.js, and TypeScript**, native Android applications with **Kotlin & Jetpack Compose**, and cross-platform apps using **Flutter**.
+- 🛠️ **Backend & Cloud:** Robust backend systems with **Node.js, Express, Firebase, Cloudflare, and Python microservices**.
+- 🤖 **AI / ML Integration:** Intelligent document pipelines, OCR processors, RAG systems, and Gemini/OpenAI API integrations.
+- 🚀 **Open Source & Shipping:** Built and deployed **31+ public projects** running live with zero downtime.
 
-Most of what I build is open source. I like shipping real projects, not just toy apps — things people can actually use. I've built 14+ projects ranging from a PDF processing tool to a P2P file transfer app to a budget tracker.
-
-#### ⚡ What I'm Good At
-- Building full-stack web & mobile apps end to end
-- Working with Google APIs (Drive, Gmail, OAuth 2.0)
-- Integrating AI/LLM features into real apps
-- Keeping things clean, fast, and actually deployed
+#### ⚡ Core Superpowers
+- End-to-end full-stack development & serverless deployments
+- Native Android architecture (MVVM, Clean Arch, Coroutines & Flow)
+- Google Cloud & Google Workspace APIs (Drive, Gmail, OAuth 2.0)
+- Real-time P2P systems with WebRTC
 
 #### 💼 Looking For
-- Full-time SDE roles (SDE I / SDE II)
-- Interesting open-source collabs
-- Projects where I can learn and contribute something real
+- **Full-time SDE Roles (SDE I / SDE II / Frontend / Mobile)**
+- High-impact open-source collaborations
+- Challenging distributed systems & AI-powered applications
 
 <br clear="both"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 3: Tech Stack -->
-## ◈ Tech Stack
+## ◈ Tech Arsenal
 
 <div align="center">
 
-| Category | Technologies |
+| Domain | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,python,java,cpp,html,css&theme=dark" /> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind,figma,androidstudio&theme=dark" /> |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb,redis&theme=dark" /> |
-| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker,git,github,linux,vscode&theme=dark" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma,redux,sass&theme=dark" /> |
+| **Mobile Development** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin&theme=dark" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mongodb,redis&theme=dark" /> |
+| **DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github,linux,vscode,postman&theme=dark" /> |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 4: AI / ML Expertise -->
-## ◈ AI / ML Expertise
+## ◈ AI / ML Capabilities
 
 <div align="center">
 
-| Focus Domain | Proficiency | Core Stack / Frameworks |
+| Focus Domain | Proficiency Level | Core Stack / Frameworks |
 | :--- | :---: | :--- |
-| **LLM Orchestration** | ▰▰▰▰▰▰▰▰▱▱ *Advanced* | OpenAI API, Gemini API, Prompt Engineering |
-| **Document Intelligence** | ▰▰▰▰▰▰▰▰▱▱ *Advanced* | PyPDF, OCR Pipelines, Tesseract, PDF parsing workers |
-| **Vector Search & RAG** | ▰▰▰▰▰▰▰▱▱▱ *Intermediate* | Embeddings generation, Semantic search, Content extraction |
-| **GenAI Applications** | ▰▰▰▰▰▰▰▱▱▱ *Intermediate* | Image Generation APIs, DALL-E, Stability AI integrations |
-| **Machine Learning Foundations**| ▰▰▰▰▰▰▱▱▱▱ *Intermediate* | Supervised & Unsupervised learning, Model evaluation |
-| **Inference & MLOps** | ▰▰▰▰▰▱▱▱▱▱ *Familiar* | Python microservices, Cloud execution, API orchestration |
+| **LLM Orchestration** | ▰▰▰▰▰▰▰▰▱▱ *Advanced* | Gemini API, OpenAI API, Prompt Engineering |
+| **Document Intelligence** | ▰▰▰▰▰▰▰▰▱▱ *Advanced* | PyPDF, OCR Pipelines, Tesseract, PDF Parsing |
+| **Vector Search & RAG** | ▰▰▰▰▰▰▰▱▱▱ *Intermediate* | Embeddings Generation, Semantic Search, Content Extraction |
+| **GenAI Applications** | ▰▰▰▰▰▰▰▱▱▱ *Intermediate* | Image Generation APIs, Stability AI Integrations |
+| **Machine Learning Foundations**| ▰▰▰▰▰▰▱▱▱▱ *Intermediate* | Supervised & Unsupervised Learning, Evaluation |
+| **Inference & MLOps** | ▰▰▰▰▰▱▱▱▱▱ *Familiar* | Python Microservices, Cloud Execution, API Gateways |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 5: Featured Projects -->
 ## ◈ Featured Projects
 
-<details>
+<details open>
 <summary><b>❖ OmniPDF — AI-Powered PDF Processing Platform</b></summary>
 <br/>
 
-> A production-ready, multi-service PDF processor facilitating seamless document conversions, image extracts, compression, and AI-enabled document analytics. Built with a distributed microservices model.
+> A production-ready, multi-service PDF processor facilitating seamless document conversions, image extracts, compression, and AI-enabled document analytics. Built with a distributed polyglot microservices model.
 
 | Spec | Details |
 | :--- | :--- |
@@ -118,7 +143,7 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </details>
 
-<details>
+<details open>
 <summary><b>❖ G-Drive-Vault — Cloud File Management System</b></summary>
 <br/>
 
@@ -187,90 +212,6 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
-<summary><b>❖ Link-Flow — Developer Bookmark Hub</b></summary>
-<br/>
-
-> A fast, card-based web interface built to aggregate and categorize dev resources, providing instantaneous indexing and keyboard navigation.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | React · TypeScript · Firebase · TailwindCSS · Vercel |
-| **Architecture** | Single-page application with modular service integration |
-| **Key Features** | OG-Metadata scraper integration, bulk link importing, quick-tag mapping |
-| **Repository** | [Rupam852/Link-Flow](https://github.com/Rupam852/Link-Flow) |
-| **Live Link** | [link-flow-program.vercel.app](https://link-flow-program.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ Calculator — Premium Dual-Platform Calculator</b></summary>
-<br/>
-
-> A hybrid calculator project hosting both a high-fidelity web application and a native Flutter mobile app, featuring a glassmorphic design system with ambient glowing backdrops and advanced calculation logic.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | Flutter · Dart · React · TypeScript · LocalStorage · Vercel |
-| **Architecture** | Dual-platform hybrid: Web (HTML/CSS/JS) + Native Mobile (Flutter/Dart) |
-| **Key Features** | Glassmorphic design, smart backspace undo, continuous calculations, scientific notation |
-| **Data Storage** | Persistent calculation history using LocalStorage |
-| **Repository** | [Rupam852/Calculator](https://github.com/Rupam852/Calculator) |
-| **Live Link** | [devcalculatoronline.vercel.app](https://devcalculatoronline.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ Tic-Tac-Toe-Game — Interactive Web Game</b></summary>
-<br/>
-
-> A responsive, modern web-based Tic-Tac-Toe game featuring a glassmorphic UI, smooth animations, and active score tracking.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | TypeScript · HTML5 · CSS3 · Vercel |
-| **Architecture** | Single-page application with reactive game state management |
-| **Key Features** | Glassmorphic grid UI, real-time scoreboard, smooth micro-animations |
-| **Design** | Fully responsive layout for all device sizes |
-| **Repository** | [Rupam852/Tic-Tac-Toe-Game](https://github.com/Rupam852/Tic-Tac-Toe-Game) |
-| **Live Link** | [tic-tac-toe-gamego.vercel.app](https://tic-tac-toe-gamego.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ Drive_Flow — Modern Cloud Drive Client</b></summary>
-<br/>
-
-> A cloud file management platform that allows users to upload, organize, and access files securely through a fast, card-based web interface with sub-second query filters.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | React · TypeScript · Firebase · Node.js · Vercel |
-| **Architecture** | Serverless cloud storage with real-time metadata synchronization |
-| **Key Features** | Card-based file browser, secure upload pipeline, real-time list updates |
-| **Performance** | Sub-second query filters, optimized asset retrieval |
-| **Repository** | [Rupam852/Drive_Flow](https://github.com/Rupam852/Drive_Flow) |
-| **Live Link** | [driveflowrupam.vercel.app](https://driveflowrupam.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ TRAFFICFLOW-AI — AI-Powered Traffic Signal Optimizer</b></summary>
-<br/>
-
-> An AI-powered smart traffic management platform using real-time vehicle flow monitoring and intelligent signal optimization algorithms to reduce city congestion.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | JavaScript · HTML5 · CSS3 · Node.js · Express · Vercel |
-| **Architecture** | Single-page application with real-time analytics simulation engine |
-| **Key Features** | Predictive signal timing, live flow simulation, intersection throughput optimization |
-| **AI Engine** | Dynamic interval adjustments based on real-time congestion patterns |
-| **Repository** | [Rupam852/TRAFFICFLOW-AI](https://github.com/Rupam852/TRAFFICFLOW-AI) |
-| **Live Link** | [trafficflowai.vercel.app](https://trafficflowai.vercel.app) |
-
-</details>
-
-<details>
 <summary><b>❖ Neo-Files-Transfer — P2P Web-Based File Transfer</b></summary>
 <br/>
 
@@ -288,36 +229,18 @@ Most of what I build is open source. I like shipping real projects, not just toy
 </details>
 
 <details>
-<summary><b>❖ Payment_Page — Modern Payment UI</b></summary>
+<summary><b>❖ Calculator — Premium Dual-Platform Calculator</b></summary>
 <br/>
 
-> A sleek, production-quality payment page interface featuring a clean checkout flow design, card input validation, and responsive UI components.
+> A hybrid calculator project hosting both a high-fidelity web application and a native Flutter mobile app, featuring a glassmorphic design system with ambient glowing backdrops.
 
 | Spec | Details |
 | :--- | :--- |
-| **Tech Stack** | HTML5 · CSS3 · JavaScript · Vercel |
-| **Architecture** | Static page with client-side validation logic |
-| **Key Features** | Card number formatting, real-time input validation, responsive checkout layout |
-| **Design** | Clean, conversion-optimized payment flow UI |
-| **Repository** | [Rupam852/Payment_Page](https://github.com/Rupam852/Payment_Page) |
-| **Live Link** | [payment-page-build.vercel.app](https://payment-page-build.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ Login-Page-Glass-Effect — Glassmorphic Login Portal</b></summary>
-<br/>
-
-> A gorgeous, premium login page template featuring a glassmorphic frosted-glass design, micro-interactions, and fully responsive styling — ideal for modern web apps.
-
-| Spec | Details |
-| :--- | :--- |
-| **Tech Stack** | HTML5 · CSS3 · JavaScript · Vercel |
-| **Architecture** | Static component showcase with CSS glassmorphism techniques |
-| **Key Features** | Frosted-glass containers, smooth hover animations, custom background art |
-| **Design** | Full responsive support with micro-interaction feedback |
-| **Repository** | [Rupam852/Login_page_Glass_Effect](https://github.com/Rupam852/Login_page_Glass_Effect) |
-| **Live Link** | [login-page-glass-effect.vercel.app](https://login-page-glass-effect.vercel.app) |
+| **Tech Stack** | Flutter · Dart · React · TypeScript · LocalStorage · Vercel |
+| **Architecture** | Dual-platform hybrid: Web (HTML/CSS/JS) + Native Mobile (Flutter/Dart) |
+| **Key Features** | Glassmorphic design, smart backspace undo, continuous calculations |
+| **Repository** | [Rupam852/Calculator](https://github.com/Rupam852/Calculator) |
+| **Live Link** | [devcalculatoronline.vercel.app](https://devcalculatoronline.vercel.app) |
 
 </details>
 
@@ -523,35 +446,34 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 <!-- AUTO_PROJECTS_END -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 6: Experience -->
-## ◈ Experience
+## ◈ Experience & Trajectory
 
 ```
-◈ Freelance / Self-Initiated Projects
-  Jan 2026 – Present
+◈ Independent Software Engineer & Builder
+  2024 – Present
   │
-  ├── Built OmniPDF — a PDF tool that handles conversions, OCR & compression.
-  │   Learned a lot about connecting TypeScript and Python services together.
+  ├── Engineered OmniPDF — Full-scale document conversion, OCR & PDF manipulation engine.
+  │   Unified TypeScript microservices with Python processing backends.
   │
-  ├── Integrated Google Drive & Gmail APIs — built two separate apps around
-  │   OAuth 2.0 scopes. Got very comfortable with Google's ecosystem.
+  ├── Architected Cloud Native & Google API Integrations — Deep OAuth 2.0 integration
+  │   with Drive & Gmail APIs with offline caching & sync models.
   │
-  ├── Shipped mobile apps in both Kotlin & Flutter — a streaming client,
-  │   an expense tracker, and a calculator. Each one taught me something new.
+  ├── Deployed Cross-Platform Mobile Applications in Kotlin & Flutter — Including
+  │   CloudStream-TV, personal finance trackers, and utility platforms.
   │
-  ├── Built Neo-Files-Transfer using WebRTC — purely peer-to-peer,
-  │   no server involved. One of my favorite projects to build.
+  ├── Shipped Neo-Files-Transfer — Fully decentralized WebRTC browser-to-browser
+  │   P2P file pipeline with zero server storage overhead.
   │
-  └── Maintained 31+ live deployments across Vercel, Cloudflare & Firebase.
-      All projects are public. I keep them running and updated.
+  └── Maintained 31+ Live Applications deployed across Vercel, Cloudflare & Firebase.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
-<!-- Section 7: Achievements -->
-## ◈ Achievements
+<!-- Section 7: Key Metrics -->
+## ◈ Engineering Impact
 
 <div align="center">
 
@@ -563,54 +485,40 @@ Most of what I build is open source. I like shipping real projects, not just toy
 | **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 21 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
-| **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6 Languages** |
+| **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6+ Languages** |
 | **P2P & WebRTC** | Built serverless peer-to-peer file transfer without any backend servers | **Zero-Server Arch** |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 10: GitHub Analytics -->
-## ◈ GitHub Analytics
+## ◈ GitHub Analytics & Metrics
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/Rupam852?style=flat-square&logo=github&color=A855F7&labelColor=0D0B16&label=TOTAL%20STARS)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/Rupam852?style=flat-square&logo=github&color=6366F1&labelColor=0D0B16&label=FOLLOWERS)
-&nbsp;&nbsp;
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRupam852&query=%24.public_repos&style=flat-square&logo=github&logoColor=white&color=8B5CF6&labelColor=0D0B16&label=PUBLIC%20REPOS)
-&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Rupam852&style=flat-square&color=D946EF&label=PROFILE+VIEWS&labelColor=0D0B16)
-
-<br/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupam852&theme=tokyonight"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Rupam852&show_icons=true&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0a0812&title_color=06b6d4&icon_color=a855f7&text_color=e2e8f0"/>
 &nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupam852&theme=tokyonight"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam852&layout=compact&theme=tokyonight&hide_border=false&border_color=7c3aed&bg_color=0a0812&title_color=06b6d4&text_color=e2e8f0"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Rupam852&theme=tokyonight&hide_border=true&background=0D0B16&stroke=4F46E5&ring=A855F7&fire=8B5CF6&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=8B5CF6&currStreakNum=A855F7&sideNums=E2E8F0"/>
-
-<br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupam852&theme=tokyonight"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=Rupam852&theme=tokyonight&hide_border=false&border_color=7c3aed&background=0a0812&stroke=7c3aed&ring=a855f7&fire=06b6d4&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=06b6d4&currStreakNum=a855f7&sideNums=e2e8f0"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 12: Contribution Activity -->
-## ◈ Contribution Activity
+## ◈ Contribution Activity Graph
 
 <div align="center">
 
-[![Rupam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam852&theme=tokyo-night&bg_color=0D0B16&color=A855F7&line=8B5CF6&point=E2E8F0&area=true&area_color=1E1B4B&hide_border=true)](https://github.com/Rupam852)
+[![Rupam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupam852&theme=tokyo-night&bg_color=0a0812&color=06b6d4&line=7c3aed&point=a855f7&area=true&area_color=1e1b4b&hide_border=false&border_color=7c3aed)](https://github.com/Rupam852)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 13: Contribution Snake -->
 ## ◈ Contribution Snake
@@ -625,75 +533,73 @@ Most of what I build is open source. I like shipping real projects, not just toy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 14: Current Focus -->
-## ◈ Current Focus
+## ◈ System Config & Focus
 
 ```yaml
 rupam_bairagya:
-  role: Full-Stack Developer (self-taught, still learning every day)
+  role: Full-Stack Engineer & Open Source Builder
   location: West Bengal, India
+  primary_stack: [React, Next.js, TypeScript, Kotlin, Flutter, Node.js]
 
-  currently_learning:
-    - How distributed systems actually work at scale
-    - TypeScript patterns I keep avoiding but should use
-    - Kotlin Multiplatform — want to share code across Android & iOS
-    - RAG pipelines & how to make AI actually useful in real apps
+  currently_exploring:
+    - High-throughput distributed systems and asynchronous workers
+    - Kotlin Multiplatform (KMP) for cross-platform shared business logic
+    - Advanced RAG architectures and LLM microservice agents
 
-  currently_working_on:
-    - OmniPDF — fixing the async pipeline, want it to feel snappier
-    - GmailMNT — adding smarter inbox automation
-    - CloudStream-TV — the UI needs a proper redesign
-    - MYPortfolio — always tweaking it
+  currently_shipping:
+    - OmniPDF — High-speed async file processing engine
+    - CloudStream-TV — Revamping client UI and stream rendering
+    - Personal Portfolio & Developer Tooling
 
-  open_to:
-    - SDE roles where I can actually build things (not just meetings)
-    - Open source collabs on interesting problems
-    - Any team that ships and iterates fast
+  open_for:
+    - Software Development Engineer (SDE I / SDE II / Frontend / Mobile) roles
+    - High-impact open source projects and engineering collaborations
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 15: Connect With Me -->
-## ◈ Connect With Me
+## ◈ Connect & Collaborate
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-rupambairagya08%40gmail.com-D946EF?style=for-the-badge&logo=gmail&logoColor=ffffff&colorA=0F0F1B)](mailto:rupambairagya08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-rupambairagya08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&colorA=0A0812)](mailto:rupambairagya08@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Bairagya-6366F1?style=for-the-badge&logo=linkedin&logoColor=ffffff&colorA=0F0F1B)](https://www.linkedin.com/in/rupam-bairagya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam%20Bairagya-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff&colorA=0A0812)](https://www.linkedin.com/in/rupam-bairagya)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Rupam852-A855F7?style=for-the-badge&logo=github&logoColor=ffffff&colorA=0F0F1B)](https://github.com/Rupam852)
+[![GitHub](https://img.shields.io/badge/GitHub-Rupam852-A855F7?style=for-the-badge&logo=github&logoColor=ffffff&colorA=0A0812)](https://github.com/Rupam852)
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Rupam%20Bairagya-1877F2?style=for-the-badge&logo=facebook&logoColor=white&colorA=0F0F1B)](https://www.facebook.com/rupam.bairagya.927)
+[![Facebook](https://img.shields.io/badge/Facebook-Rupam%20Bairagya-1877F2?style=for-the-badge&logo=facebook&logoColor=white&colorA=0A0812)](https://www.facebook.com/rupam.bairagya.927)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@_rupambairagya_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=0F0F1B)](https://www.instagram.com/_rupambairagya_/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_rupambairagya_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=0A0812)](https://www.instagram.com/_rupambairagya_/)
 &nbsp;
-[![X (Twitter)](https://img.shields.io/badge/X-@_rupambairagya_-000000?style=for-the-badge&logo=x&logoColor=white&colorA=0F0F1B)](https://x.com/_rupambairagya_/)
+[![X (Twitter)](https://img.shields.io/badge/X-@_rupambairagya_-000000?style=for-the-badge&logo=x&logoColor=white&colorA=0A0812)](https://x.com/_rupambairagya_/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Random Dev Quote -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0a0812,1e1b4b,7c3aed,06b6d4&height=4&section=header" width="100%"/>
 
 <!-- Section 16: Footer Section -->
 <div align="center">
 
-*"I build things, ship them, break them, fix them, and repeat. That's the job."*
+*"Passionate about building scalable systems, crafting clean code, and shipping impactful software."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0b18,1e1b4b,4c1d95,8b5cf6&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0812,130f26,3b0764,7c3aed,06b6d4&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

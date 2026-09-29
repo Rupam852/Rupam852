@@ -9,7 +9,16 @@ Auto-update README.md with latest GitHub data:
 
 import os
 import re
+import sys
 import requests
+
+# Fix Windows console encoding for UTF-8 emojis
+if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 USERNAME    = "Rupam852"
 README_PATH = os.path.join(os.path.dirname(__file__), "..", "README.md")
