@@ -324,87 +324,26 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 <!-- AUTO_PROJECTS_START -->
 
 <details>
-<summary><b>❖ AI_Career_Mentor_BWU_AI_LAB_PROJECT</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | HTML |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT](https://github.com/Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT) |
-| **Live Link** | [https://ai-career-mentor-bwu-ai-lab-project.vercel.app](https://ai-career-mentor-bwu-ai-lab-project.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | Collage AI LAB Assignments |
-| **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ Cloud_Computing_Lab_5TH-SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | N/A |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Cloud_Computing_Lab_5TH-SEM](https://github.com/Rupam852/Cloud_Computing_Lab_5TH-SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ Computer_Network_LAB_5TH-SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | N/A |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/Computer_Network_LAB_5TH-SEM](https://github.com/Rupam852/Computer_Network_LAB_5TH-SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ BWU_Compiler_Design_LAB_5TH_SEM</b></summary>
+<summary><b>❖ JIS_Build_With_AI</b></summary>
 
 | | |
 | :--- | :--- |
 | **Description** | No description provided. |
 | **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_Compiler_Design_LAB_5TH_SEM](https://github.com/Rupam852/BWU_Compiler_Design_LAB_5TH_SEM) |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
 
 </details>
 
 <details>
-<summary><b>❖ CMD_Music_Downloader</b></summary>
+<summary><b>❖ BWU_JAVA_LAB_4TH_SEM</b></summary>
 
 | | |
 | :--- | :--- |
 | **Description** | No description provided. |
-| **Language** | Python |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/CMD_Music_Downloader](https://github.com/Rupam852/CMD_Music_Downloader) |
-
-</details>
-
-<details>
-<summary><b>❖ PortfolioHub</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | JavaScript |
-| **Stars** | ⭐ 1 |
-| **Repository** | [Rupam852/PortfolioHub](https://github.com/Rupam852/PortfolioHub) |
+| **Language** | N/A |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/BWU_JAVA_LAB_4TH_SEM](https://github.com/Rupam852/BWU_JAVA_LAB_4TH_SEM) |
 
 </details>
 
@@ -415,7 +354,7 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 | :--- | :--- |
 | **Description** | No description provided. |
 | **Language** | N/A |
-| **Stars** | ⭐ 0 |
+| **Stars** | ⭐ 4 |
 | **Repository** | [Rupam852/BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM](https://github.com/Rupam852/BWU-Design-and-Analysis-of-Algorithms_LAB_4TH_SEM) |
 
 </details>
@@ -427,32 +366,56 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 | :--- | :--- |
 | **Description** | No description provided. |
 | **Language** | N/A |
-| **Stars** | ⭐ 0 |
+| **Stars** | ⭐ 4 |
 | **Repository** | [Rupam852/BWU_OS_LAB_4TH_SEM](https://github.com/Rupam852/BWU_OS_LAB_4TH_SEM) |
 
 </details>
 
 <details>
-<summary><b>❖ BWU_JAVA_LAB_4TH_SEM</b></summary>
-
-| | |
-| :--- | :--- |
-| **Description** | No description provided. |
-| **Language** | N/A |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/BWU_JAVA_LAB_4TH_SEM](https://github.com/Rupam852/BWU_JAVA_LAB_4TH_SEM) |
-
-</details>
-
-<details>
-<summary><b>❖ JIS_Build_With_AI</b></summary>
+<summary><b>❖ BWU_Compiler_Design_LAB_5TH_SEM</b></summary>
 
 | | |
 | :--- | :--- |
 | **Description** | No description provided. |
 | **Language** | Jupyter Notebook |
-| **Stars** | ⭐ 0 |
-| **Repository** | [Rupam852/JIS_Build_With_AI](https://github.com/Rupam852/JIS_Build_With_AI) |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/BWU_Compiler_Design_LAB_5TH_SEM](https://github.com/Rupam852/BWU_Compiler_Design_LAB_5TH_SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ Computer_Network_LAB_5TH-SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/Computer_Network_LAB_5TH-SEM](https://github.com/Rupam852/Computer_Network_LAB_5TH-SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ Cloud_Computing_Lab_5TH-SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | N/A |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/Cloud_Computing_Lab_5TH-SEM](https://github.com/Rupam852/Cloud_Computing_Lab_5TH-SEM) |
+
+</details>
+
+<details>
+<summary><b>❖ BWU_AI_LAB_5TH_SEM</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | Collage AI LAB Assignments |
+| **Language** | Jupyter Notebook |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/BWU_AI_LAB_5TH_SEM](https://github.com/Rupam852/BWU_AI_LAB_5TH_SEM) |
 
 </details>
 
@@ -463,9 +426,46 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 | :--- | :--- |
 | **Description** | Glick X Notes is a modern note-taking application that enables users to create, organize, edit, and manage notes effortlessly with a clean, fast, and responsive interface. |
 | **Language** | TypeScript |
-| **Stars** | ⭐ 1 |
+| **Stars** | ⭐ 4 |
 | **Repository** | [Rupam852/Glick-X-Notes](https://github.com/Rupam852/Glick-X-Notes) |
 | **Live Link** | [https://glick-x-notes.vercel.app](https://glick-x-notes.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>❖ PortfolioHub</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | JavaScript |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/PortfolioHub](https://github.com/Rupam852/PortfolioHub) |
+
+</details>
+
+<details>
+<summary><b>❖ CMD_Music_Downloader</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | Python |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/CMD_Music_Downloader](https://github.com/Rupam852/CMD_Music_Downloader) |
+
+</details>
+
+<details>
+<summary><b>❖ AI_Career_Mentor_BWU_AI_LAB_PROJECT</b></summary>
+
+| | |
+| :--- | :--- |
+| **Description** | No description provided. |
+| **Language** | HTML |
+| **Stars** | ⭐ 4 |
+| **Repository** | [Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT](https://github.com/Rupam852/AI_Career_Mentor_BWU_AI_LAB_PROJECT) |
+| **Live Link** | [https://ai-career-mentor-bwu-ai-lab-project.vercel.app](https://ai-career-mentor-bwu-ai-lab-project.vercel.app) |
 
 </details>
 
@@ -507,7 +507,7 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 <!-- AUTO_STATS_START -->
 | **Production Shipped** | Deployed fully operational SaaS platforms and tools across Vercel & Cloudflare | **31+ Live Products** |
 | **Open Source** | Maintained active public repositories, source-available tooling, and utilities | **31 Public Repos** |
-| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 21 Stars** |
+| **Total Stars** | Stars earned across all public repositories on GitHub | **⭐ 121 Stars** |
 <!-- AUTO_STATS_END -->
 | **Mobile Coverage** | Published native Android apps (Kotlin) & cross-platform Flutter bundles | **Android & iOS** |
 | **Polyglot Design** | Engineered services using TypeScript, Kotlin, Dart, Python, JavaScript & Java | **6+ Languages** |
