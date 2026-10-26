@@ -137,11 +137,9 @@ def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
-    content = replace_between(content, "<!-- AUTO_PROJECTS_START -->", "<!-- AUTO_PROJECTS_END -->", projects_block)
-    content = replace_between(content, "<!-- AUTO_STATS_START -->",    "<!-- AUTO_STATS_END -->",    stats_block)
-    content = update_header_capsule(content, repo_count)
-    content = update_typing_svg(content, repo_count)
-    content = update_experience_line(content, repo_count)
+    # Update dynamic project counts in minimal README
+    content = re.sub(r"\d+\+ open-source projects shipped", f"{repo_count}+ open-source projects shipped", content)
+    content = re.sub(r"Explore all \d+\+ projects", f"Explore all {repo_count}+ projects", content)
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
