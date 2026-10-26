@@ -132,12 +132,12 @@ Hey there! 👋 I'm **Rupam Bairagya** — a passionate, self-taught Full-Stack 
 
 | Spec | Details |
 | :--- | :--- |
-| **Tech Stack** | React · TypeScript · Firebase Auth · Firestore · Google Drive API · Vercel |
+| **Tech Stack** | React · TypeScript · Firebase Auth · Firestore · Google Drive API · Cloudflare Pages |
 | **Architecture** | Serverless client-side orchestration using Google API SDK & Firebase Backend |
 | **Key Features** | Drag-and-drop batch upload, real-time firestore directory structure sync, scope-isolated auth |
 | **Performance** | Debounced search queries, virtualized file grid for infinite scroll, asset caching |
 | **Repository** | [Rupam852/G-Drive-Vault](https://github.com/Rupam852/G-Drive-Vault) |
-| **Live Link** | [g-drive-vault.vercel.app](https://g-drive-vault.vercel.app) |
+| **Live Link** | [g-drive-vault.pages.dev](https://g-drive-vault.pages.dev/) |
 
 </details>
 
