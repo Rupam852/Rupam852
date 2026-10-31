@@ -15,7 +15,7 @@
 
 <br/>
 
-> *Passionate software engineer building high-performance web platforms, production native Android applications, and distributed P2P systems. 31+ open-source projects shipped.*
+> *Passionate software engineer building high-performance web platforms, production native Android applications, and distributed P2P systems. 32+ open-source projects shipped.*
 
 </div>
 
@@ -43,7 +43,7 @@ A curated selection of flagship production projects:
 | **OmniPDF** | High-performance AI document manipulation engine with OCR text extraction and async conversions. | React · TypeScript · Node.js · Tesseract OCR | [Live App](https://omnipdf-converter.vercel.app) · [Code](https://github.com/Rupam852/OmniPDF) |
 
 <p align="right">
-  <i>💡 Explore all 31+ projects on my <a href="https://devcalculatoronline.vercel.app/">Portfolio Website</a> or <a href="https://github.com/Rupam852?tab=repositories">GitHub Repositories</a>.</i>
+  <i>💡 Explore all 32+ projects on my <a href="https://devcalculatoronline.vercel.app/">Portfolio Website</a> or <a href="https://github.com/Rupam852?tab=repositories">GitHub Repositories</a>.</i>
 </p>
 
 ---
